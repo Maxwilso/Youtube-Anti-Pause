@@ -11,7 +11,7 @@ Blocks YouTube from showing the **"Video paused. Continue watching?"** popup and
 
 3. Create a **new userscript**.  
 
-4. Copy the raw code from the latest release
+4. Copy the raw code from the latest release.
 
 5. Paste it into the editor, then **Save**.  
 
