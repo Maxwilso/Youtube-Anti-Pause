@@ -1,7 +1,7 @@
-# Youtube-Anti-Pause
-Blocks YouTube from showing the **"Video paused. Continue watching?"** popup and overlay — permanently.
+# **Youtube-Anti-Pause**
+Blocks YouTube from showing the **"Video paused. Continue watching?"** popup and overlay, permanently.
 
-##Installation
+# **Installation**
 
 1. Install a userscript manager extension:  
    - [Violentmonkey (Chrome/Firefox/Edge)](https://violentmonkey.github.io/)  
